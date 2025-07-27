@@ -38,7 +38,7 @@ Whether you're a beginner or brushing up your SQL, feel free to use this as a re
 | No. | Problem Name | Difficulty | Status | Solution |
 |-----|--------------|------------|--------|----------|
 | 01 | [Average Time of Process Per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | ✔️ | Accepted |
-| 02 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟢 Easy | ❌ | - |
+| 02 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟢 Easy | ✔️ | Accepted |
 | 03 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🔴 Hard | ❌ | - |
 | 04 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium | ❌ | - |
 | 05 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | ❌ | - |
