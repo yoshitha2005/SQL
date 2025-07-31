@@ -41,7 +41,7 @@ Whether you're a beginner or brushing up your SQL, feel free to use this as a re
 | 02 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | 🟢 Easy | ✔️ | Accepted |
 | 03 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | 🔴 Hard |✔️  | Accepted |
 | 04 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | 🟡 Medium |✔️ | Accepted |
-| 05 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | ❌ | - |
+| 05 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | 🔴 Hard | ✔️ | Accepted |
 | 06 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | 🟡 Medium | ❌ | - |
 | 07 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | 🟡 Medium | ❌ | - |
 | 08 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | ❌ | - |
